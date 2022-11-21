@@ -75,7 +75,7 @@
     ],
     "msvs_settings": {
       "VCCLCompilerTool": {
-        "AdditionalOptions": ["/ZW"],
+        "AdditionalOptions": ["/ZW", '-std:c++17'],
         "DisableSpecificWarnings": [4609, 4996]
       }
     }
